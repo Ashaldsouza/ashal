@@ -5,3 +5,8 @@ body {
     font-size: 10rem;
 }
 
+marquee {
+    color: red;
+    font-size: 3rem;
+}
+
